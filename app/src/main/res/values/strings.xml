@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login XML</string>
+    <string name="app_title">Login</string>
+    <string name="app_hint_login">E-mail</string>
+    <string name="app_hint_password">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="register_button">Cadastrar</string>
+</resources>
