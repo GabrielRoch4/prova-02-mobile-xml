@@ -27,7 +27,7 @@ This project is a simple Android application that implements user authentication
 ### Setup Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/usuario/firebase-auth-app.git
+   git clone https://github.com/GabrielRoch4/prova-02-mobile-xml.git
    cd firebase-auth-app
    ```
 
